@@ -1,0 +1,2 @@
+# The SIT License
+Proper use of this license will be put here shortly. This license is a permissive copyright license that requires attribution for copies and derivities of your work. You can provide exceptions to the need to provide attribution if desired through an additional license which you can provide at your own discretion - otherwise, those who make use of your software will be required to give you credit. This means you can have a contact me if this license doesn't work for you option if desired.
